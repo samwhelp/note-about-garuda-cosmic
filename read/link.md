@@ -21,9 +21,10 @@ has_children: false
 
 ## Garuda Linux / Edition
 
-| Garuda Linux Edition |
-| -------------------- |
-| [Garuda Cosmic](https://garudalinux.org/installation?edition=cosmic) |
+| Garuda Linux Edition / Settings |
+| ---- |
+| [Garuda Common Settings](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-common-settings) |
+| [Garuda Cosmic](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-cosmic-settings) |
 
 
 
